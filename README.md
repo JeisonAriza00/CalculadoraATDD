@@ -52,7 +52,7 @@ Figura 4: Servicios Iniciados
 
 Luego iniciamos los servicios con la instrucción **docker-compose up**.
 
-![5](https://raw.githubusercontent.com/JeisonAriza00/CalculadoraATDD/master/ServiciosLanzados.PNG)
+![5](https://raw.githubusercontent.com/JeisonAriza00/CalculadoraATDD/master/ServiciosLanzados.png)
 
 Figura 5: Servicios Iniciados
 
