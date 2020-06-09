@@ -16,7 +16,7 @@
 | **Nombre: Luigi Santiago Fajardo Toloza** | **Código:** 20201099029 |
 | **Nombre: Jeisson Jair Ariza Pulido** | **Código:** 20201099026 |
 
-**Requerimiento:** Usando el ejercicio realizado de calculadora con microservicios empleando flask realizar el entorno de pruebas de comportamiento empleando request y behave.
+**Requerimiento:** Usando el ejercicio realizado de calculadora con microservicios empleando flask realizar el entorno de pruebas de comportamiento empleando requests y behave.
 
 
 **Procedimiento:** 
