@@ -28,11 +28,11 @@ Se crea la carpeta **features** en la raiz del proyecto y en esta se crea el arc
 
 Figura 1: Estructura del Proyecto
 
-Dentro del archivo calculadora.feature se definen los escenarios que se evaluaran para cada microservicio, es decir, alli se colocan los valores y respuestas que debemos obtener al realizar las pruebas.El siguientes es el ejemplo para la **suma**:
+Dentro del archivo calculadora.feature se definen los escenarios que se evaluaran para cada microservicio, es decir, alli se colocan los valores y respuestas que debemos obtener al realizar las pruebas.El siguiente es el ejemplo para la **suma**:
 
 ![2](https://raw.githubusercontent.com/JeisonAriza00/CalculadoraATDD/master/ScenarioSuma.PNG)
 
-Figura 2: Escenarios microservicio suma
+Figura 2: Escenarios servicio suma
 
 Para los otros 3 servicios, es decir, resta, multiplicación y división el procedimiento es similar.
 
@@ -44,7 +44,7 @@ Figura 3: Steps suma
 
 Para los otros 3 servicios, es decir, resta, multiplicación y división el procedimiento es similar.
 
-Recordando que este proyecto esta dockerizado es necesario agregar al archivo de requerimientos el behave y emplear la instrucción **docker-compose build para reconstruir. 
+Recordando que este proyecto esta dockerizado es necesario agregar al archivo de requerimientos el behave y emplear la instrucción **docker-compose build para reconstruir**. 
 
 ![4](https://raw.githubusercontent.com/JeisonAriza00/CalculadoraATDD/master/requirements.PNG)
 
