@@ -31,6 +31,7 @@ Figura 1: Estructura del Proyecto
 Dentro del archivo calculadora.feature se definen los escenarios que se evaluaran para cada microservicio, es decir, alli se colocan los valores y respuestas que debemos obtener al realizar las pruebas.El siguientes es el ejemplo para la **suma**:
 
 ![2](https://raw.githubusercontent.com/JeisonAriza00/CalculadoraATDD/master/ScenarioSuma.PNG)
+
 Figura 2: Escenarios microservicio suma
 
 Para los otros 3 servicios, es decir, resta, multiplicación y división el procedimiento es similar.
