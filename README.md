@@ -22,7 +22,7 @@
 **Procedimiento:** 
 
 
-Se crea la carpeta **feature** en la raiz del proyecto y en esta se crea el archivo **calculadora.feature**, adicionalmente dentro de esta carpeta se crea la carpeta **steps** y en esta el archivo **steps.py**. 
+Se crea la carpeta **features** en la raiz del proyecto y en esta se crea el archivo **calculadora.feature**, adicionalmente dentro de esta carpeta se crea la carpeta **steps** y en esta el archivo **steps.py**. 
 
 ![1](https://raw.githubusercontent.com/JeisonAriza00/CalculadoraATDD/master/EstructuraProyecto.PNG)
 
