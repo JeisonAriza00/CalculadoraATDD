@@ -22,13 +22,13 @@
 **Procedimiento:** 
 
 
-Se crea la carpeta **features** en la raiz del proyecto y en esta se crea el archivo **calculadora.feature**, adicionalmente dentro de esta carpeta se crea la carpeta **steps** y en esta el archivo **steps.py**. 
+Se crea la carpeta **features** en la raiz del proyecto y en esta se crean los archivos **.feature** de cada microservicio, es decir **suma.feature, resta.feature, multiplicacion.feature y division.feature**, adicionalmente dentro de esta carpeta se crea la carpeta **steps** y en esta el archivo **steps.py**. 
 
 ![1](https://raw.githubusercontent.com/JeisonAriza00/CalculadoraATDD/master/EstructuraProyecto.PNG)
 
 Figura 1: Estructura del Proyecto
 
-Dentro del archivo calculadora.feature se definen los escenarios que se evaluaran para cada microservicio, es decir, alli se colocan los valores y respuestas que debemos obtener al realizar las pruebas.El siguiente es el ejemplo para la **suma**:
+Dentro de cada archivo **.feature** se definen los escenarios que se evaluaran para cada microservicio, es decir, alli se colocan los valores y respuestas que debemos obtener al realizar las pruebas.El siguiente es el ejemplo para la **suma**:
 
 ![2](https://raw.githubusercontent.com/JeisonAriza00/CalculadoraATDD/master/ScenarioSuma.PNG)
 
